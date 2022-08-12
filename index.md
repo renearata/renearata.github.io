@@ -1,3 +1,5 @@
+![ロゴ](bc0ce91d-private.png)
+
 # About 
 自己紹介
 
